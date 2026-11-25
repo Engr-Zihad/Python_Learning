@@ -1,0 +1,6 @@
+a = int (input("Enter 1st number :"))
+b = int (input("Enter 2nd number :"))
+print("your sum is ",a+b)
+print("your remainder is ",a%b)
+print(f"Square of 1st is {a**2} and square of 2nd is {b**2}")
+print(f"Cube of 1st is {a**3} and cude of 2nd is {b**3}")
